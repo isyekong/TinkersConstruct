@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:knockback_armor",
+  "text": [
+    {
+      "text": "每级给予所有武器 1 击退，这会将弹出大约 2 格。大多数工具从 0.4 击退开始。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多3级",
+    "每级需要一个升级槽"
+  ]
+}
