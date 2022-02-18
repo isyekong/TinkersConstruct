@@ -1002,8 +1002,8 @@
   "block.tconstruct.seared_melter.tooltip": "第一个冶炼炉。\n放置在燃料罐或加热器上方以提供燃料。",
   "gui.tconstruct.melter": "熔化器",
   "gui.tconstruct.melting.capacity": "容量:",
-  "gui.tconstruct.melting.available": "免费:",
-  "gui.tconstruct.melting.used": "二手:",
+  "gui.tconstruct.melting.available": "可用:",
+  "gui.tconstruct.melting.used": "占用:",
 
   "block.tconstruct.seared_heater": "焦黑加热器",
   "block.tconstruct.seared_heater.tooltip": "熔炉的固体燃料来源。",
