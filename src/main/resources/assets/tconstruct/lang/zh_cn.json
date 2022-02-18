@@ -439,10 +439,10 @@
   "fluid.tconstruct.flowing_sky_slime": "流动的天空粘液",
   "item.tconstruct.sky_slime_bucket": "天空粘液桶",
 
-  "block.tconstruct.magma_fluid": "熔融岩浆膏",
-  "fluid.tconstruct.magma": "熔融岩浆膏",
-  "fluid.tconstruct.flowing_magma": "流动的熔融岩浆膏",
-  "item.tconstruct.magma_bucket": "熔融岩浆膏桶",
+  "block.tconstruct.magma_fluid": "熔融岩浆块",
+  "fluid.tconstruct.magma": "熔融岩浆块",
+  "fluid.tconstruct.flowing_magma": "流动的熔融岩浆块",
+  "item.tconstruct.magma_bucket": "熔融岩浆块桶",
 
   "block.tconstruct.ender_slime_fluid": "末影粘液",
   "fluid.tconstruct.ender_slime": "末影粘液",
@@ -1002,8 +1002,8 @@
   "block.tconstruct.seared_melter.tooltip": "第一个冶炼炉。\n放置在燃料罐或加热器上方以提供燃料。",
   "gui.tconstruct.melter": "熔化器",
   "gui.tconstruct.melting.capacity": "容量:",
-  "gui.tconstruct.melting.available": "免费:",
-  "gui.tconstruct.melting.used": "二手:",
+  "gui.tconstruct.melting.available": "可用:",
+  "gui.tconstruct.melting.used": "占用:",
 
   "block.tconstruct.seared_heater": "焦黑加热器",
   "block.tconstruct.seared_heater.tooltip": "熔炉的固体燃料来源。",
