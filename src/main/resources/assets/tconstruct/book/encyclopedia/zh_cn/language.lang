@@ -1,16 +1,16 @@
 intro=介绍
 
-small_tools=小工具
-large_tools=通用工具
+small_tools=小型工具
+large_tools=大型工具
 armor=盔甲
 
-tier_one_materials=第1层材料
+tier_one_materials=第1级材料
 tier_one_materials.subtext=这些材料很容易找到，并且可以放置在零件生成器中以创建工具零件
-tier_two_materials=第 2 层材料
+tier_two_materials=第2级材料
 tier_two_materials.subtext=这些材料需要熔化和铸造才能制造，并且可能更稀有
-tier_three_materials=第 3 层材料
+tier_three_materials=第3级材料
 tier_three_materials.subtext=这些材料需要通过合金化器或冶炼厂进行合金化
-tier_four_materials=第 4 层材料
+tier_four_materials=第4级材料
 tier_four_materials.subtext=不前往下界就无法找到这些材料
 skull_materials=粘液头盔
 skull_materials.subtext=本节描述了所有类型的头颅在创建粘液头盔时的效果
@@ -39,7 +39,7 @@ abilities.subtext=技能修饰符的插槽比升级少，但每个插槽都更�
 abilities.group_general=通用
 abilities.group_harvest=收获
 abilities.group_weapon=武器
-abilities.group_interact=相互作用
+abilities.group_interact=交互
 abilities.group_armor=盔甲
 abilities.unarmed=徒手
 
